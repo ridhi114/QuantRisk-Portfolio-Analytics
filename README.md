@@ -2,6 +2,10 @@
 
 An end-to-end financial analytics project that turns historical adjusted prices into portfolio, benchmark, and downside-risk insights. It combines a reusable Python analytics package with an interactive Streamlit dashboard.
 
+[![Live Dashboard](https://img.shields.io/badge/Live_Dashboard-Open_App-FF4B4B?logo=streamlit&logoColor=white)](https://quantrisk-ridhi-jain.streamlit.app/)
+
+**Live demo:** [Launch QuantRisk](https://quantrisk-ridhi-jain.streamlit.app/)
+
 ## Why this project is different
 
 QuantRisk goes beyond plotting stock returns. It validates risk estimates through rolling Value-at-Risk backtesting, compares assets with a market benchmark, measures drawdown recovery, and builds minimum-volatility and maximum-Sharpe portfolios.
