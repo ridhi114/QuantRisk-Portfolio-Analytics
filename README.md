@@ -73,8 +73,3 @@ quantrisk/
 └── pyproject.toml
 ```
 
-## CV-ready bullets
-
-- Built a modular Python market-risk engine using 10+ years of equity data, automating CAGR, rolling volatility, drawdowns, beta, Sharpe/Sortino ratios, and historical/Gaussian VaR and CVaR.
-- Backtested rolling one-day VaR with breach analysis and the Kupiec coverage test, eliminating look-ahead bias through lagged estimation windows.
-- Developed an interactive Streamlit dashboard and long-only portfolio optimizer comparing equal-weight, minimum-volatility and maximum-Sharpe strategies across market stress periods.
