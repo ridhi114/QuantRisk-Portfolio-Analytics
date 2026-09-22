@@ -6,6 +6,32 @@ An end-to-end financial analytics project that turns historical adjusted prices 
 
 **Live demo:** [Launch QuantRisk](https://quantrisk-ridhi-jain.streamlit.app/)
 
+## Dashboard Preview
+
+### Market Performance
+
+Compare the growth of a $1 investment across six equities and the S&P 500 benchmark.
+
+![QuantRisk performance dashboard](assets/performance-overview.png)
+
+### Drawdown and VaR Backtesting
+
+Evaluate historical drawdowns and validate rolling one-day VaR using observed exceptions.
+
+![QuantRisk VaR backtesting](assets/var-backtest.png)
+
+### Portfolio Optimization
+
+Compare equal-weight, minimum-volatility and maximum-Sharpe allocations under long-only constraints.
+
+![QuantRisk portfolio optimization](assets/portfolio-optimization.png)
+
+### Market Stress Testing
+
+Analyse asset performance during major market disruptions such as the COVID-19 crash.
+
+![QuantRisk COVID-19 stress test](assets/covid-stress-test.png)
+
 ## Why this project is different
 
 QuantRisk goes beyond plotting stock returns. It validates risk estimates through rolling Value-at-Risk backtesting, compares assets with a market benchmark, measures drawdown recovery, and builds minimum-volatility and maximum-Sharpe portfolios.
